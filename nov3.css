@@ -1,0 +1,23 @@
+.arrival {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    border: 3px solid blue;
+    padding-top: 100px;
+    background-color: burlywood;
+margin-top: 40px;
+}
+body {
+    background-color: lightcoral;
+}
+.University {
+    font-size: 20px;
+   
+}
+.Righty {
+    margin-left: 40px;
+}
+.Lefty {
+    padding: 40px;
+}
